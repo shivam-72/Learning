@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout<<"added";
+    cout<<"second case";
     return 0;
 }
